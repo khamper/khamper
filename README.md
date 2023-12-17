@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @khamper
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on idk yet
 - 📫 How to reach me - dont
 
 <!---
