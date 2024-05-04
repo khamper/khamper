@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khamper
 - 🌱 I’m currently learning c++
 - 📫 How to reach me - dont
-- 🐧 i use arch btw
+- 🐧 i use gentoo
 
 <!--- ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khamper&langs_count=8&theme=transparent) --->
 <!---
